@@ -16,7 +16,7 @@ The project is organized as follows:
 
 - **Text Vectorization**: We use various text vectorization techniques to convert the text data into numerical features that can be used for machine learning. Common techniques include TF-IDF (Term Frequency-Inverse Document Frequency) and word embeddings such as Word2Vec or GloVe.
 
-- **Machine Learning Models**: We build and train machine learning models for text classification. Popular models for text classification include Logistic Regression, Naive Bayes, Support Vector Machines, and more advanced models like Recurrent Neural Networks (RNNs) and Transformers.
+- **Machine Learning Models**: We build and train machine learning models for text classification. Popular models for text classification include Logistic Regression, Naive Bayes, Support Vector Machines.
 
 - **Model Evaluation**: We evaluate the models' performance using appropriate metrics such as accuracy, precision, recall, F1-score, and ROC AUC.
 
