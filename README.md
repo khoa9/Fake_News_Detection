@@ -29,7 +29,9 @@ The model processes input news articles through a pipeline that includes text pr
 This model suite has demonstrated exceptional performance in identifying and filtering fake news content. Key highlights include:
 
 **- Training Set Accuracy**: Achieved 99% accuracy, indicating the model's robustness and its ability to learn from the dataset.
+
 **- Test Set Accuracy**: Maintained high accuracy at 98%, showcasing the model's generalizability and effectiveness on unseen data.
+
 **- Model Selection**: The SVM model was selected as the primary detection tool after extensive testing, outperforming other models in accuracy and reliability.
 
 These results underscore the model's capability to serve as a powerful tool in the fight against misinformation, making it a valuable asset for digital platforms seeking to maintain content integrity.
